@@ -409,12 +409,6 @@ a {
   cursor: pointer;
 }
 
-.button-portfolio.present {
-  color: var(--secondary-accent-color);
-
-  background-color: var(--accent-color);
-}
-
 .button-portfolio:hover,
 .button-portfolio:focus {
   border: none;
