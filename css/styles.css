@@ -69,6 +69,7 @@ a {
 
   color: var(--accent-color);
 }
+
 .title {
   font-weight: 700;
   font-size: 36px;
@@ -328,8 +329,8 @@ a {
 
 .footer .logo {
   height: 31px;
-}*/
-//////////////////////////////////////////////////
+}
+//////////////////////////////////////////////////*/
 .footer-text {
   font-weight: 400;
   font-size: 14px;
