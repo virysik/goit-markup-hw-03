@@ -321,14 +321,14 @@ a {
 }
 
 /* временние параметри, не знаю как по другому регулировать*/
-.footer-text,
+/*.footer-text,
 .footer-contact-info {
   height: 21px;
 }
 
 .footer .logo {
   height: 31px;
-}
+}*/
 //////////////////////////////////////////////////
 .footer-text {
   font-weight: 400;
